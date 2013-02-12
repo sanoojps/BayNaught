@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">BayNaught</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">About</string>
+    <string name="title_activity_main">APpTomE</string>
+
+</resources>
